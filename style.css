@@ -1,0 +1,20 @@
+
+body {
+
+    height: 95vh;
+    width: 95;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0.6;
+}
+
+
+.imagem {
+
+    background: url(./pacman.jpg);
+
+
+}
